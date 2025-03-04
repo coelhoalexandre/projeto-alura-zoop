@@ -1,69 +1,40 @@
-![Zoop Megastore](thumb.png)
+<h1 align="center"> Projeto Zoop </h1>
 
-# Zoop Megastore
+<div align="center">
 
-A Zoop é um e-commerce de varejo que vende de tudo! Atualmente em fase de desenvolvimento, seu site carece de recursos que tornem ele acessível para todas as pessoas que acessam e navegam por ele.
+<a href="https://github.com/coelhoalexandre/projeto-alura-zoop/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
-![GIF da aplicação em execução](zoop-gif.gif)
+</div>
 
-## 🔨 Funcionalidades do projeto
+## Sumário
 
-Neste estágio inicial de desenvolvimento, a Zoop possui as seguintes funcionalidades:
+- [Cursos e Instrutores](#cursos-e-instrutores)
+- [Objetivos do Projeto](#objetivos-do-projeto)
+- [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 
-- Navegar pela aplicação
-- Interagir com elementos visuais da aplicação como modais, acordeões, etc.
-- Visualizar a página de produtos
+## Cursos e Instrutores
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/1KuCFIRKOIZVrb0f6nLbVw/React-Acessibilidade?node-id=59%3A852&mode=dev).
+|Curso|Instrutores|
+|---|---|
+|[React: acessibilidade para desenvolver interfaces inclusivas](https://cursos.alura.com.br/course/react-acessibilidade-desenvolver-interfaces-inclusivas)|[**Neilton Seguins**](https://github.com/NeiltonSeguins)|
 
-![](img/amostra.gif)
+## Objetivos do Projeto
+Desenvolva uma compreensão sólida dos princípios fundamentais de acessibilidade em aplicações React
+Implemente componentes acessíveis para melhorar a experiência do usuário
+Controle o foco de seus elementos de maneira eficiente
+Aprimore a interação do usuário com mouse, aplicando eventos onBlur e onFocus em suas aplicações
+Teste e valide a acessibilidade de suas aplicações usando ferramentas manuais e leitores de tela populares
+Descubra os padrões WAI-ARIA de acessibilidade
+Utilize recursos semânticos para tornar seus sites mais acessíveis
 
-## ✔️ Técnicas e tecnologias utilizadas
+## Tecnolgias Utilizadas
 
-O projeto Zoop utiliza as seguintes tecnologias e bibliotecas:
+1. HTML
+2. CSS
+3. JS
+4. TS
+5. React
+6. Vite
 
-- `React` - Framework JavaScript
-- `Vite` - Build tool para desenvolvimento rápido
-- `TypeScript` - Linguagem de programação principal
-- `React Router Dom` - Biblioteca para gerenciamento de rotas
-- `classnames` - Biblioteca para gerenciamento de classes css
-- `Figma` - Para prototipagem do projeto
-
-E muito mais...
-
-## 🛠️ Abrir e rodar o projeto
-
-Para executar o projeto Meteora em seu ambiente local, siga estas etapas:
-
-1. Certifique-se de ter o Node.js instalado em sua máquina.
-
-2. Baixe o repositório do projeto.
-
-3. Extraia os arquivos para uma pasta de sua preferência.
-
-4. Navegue até a pasta em questão via terminal (cmd):
-
-```bash
-cd repo-zoop
-```
-
-5. Instale as dependências usando o npm:
-
-```bash
-npm install
-```
-
-6. Inicie o projeto localmente:
-
-```bash
-npm run dev
-```
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais? 
-
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/1KuCFIRKOIZVrb0f6nLbVw/React-Acessibilidade?node-id=59%3A852&mode=dev).
-
-Aproveite o desenvolvimento e aprimoramento da Zoop!
+Autor: [Alexandre Coelho](https://github.com/coelhoalexandre)
 
